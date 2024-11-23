@@ -1,19 +1,16 @@
 body {
     background-color: black;
     color: white;
-    font-family:"Chakra Petch" sans-serif;
-} 
 
-.chamada{
+}
+
+section {
     background: rgb(184, 156, 213);
     padding-bottom: 80px;
     padding-top: 80px;
     display: flex;
     justify-content: center;
 }
-.categoria{
-    padding-let:20px;
-    pading-right:20px;
 
 .chamada-texto {
     margin-right: 5%;
@@ -28,10 +25,3 @@ img {
     overflow-x: auto;
     gap: 10px;
 }
-h1 {
-    font-size: 40px;
-}
-p {
-    font-size: 20px;
-}
-
